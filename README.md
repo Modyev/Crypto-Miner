@@ -1,2 +1,2 @@
-# Crypto-Miner
-Crypto Mining Algorithm Stimulation
+# Bitcoin-Miner
+Bitcoin Crypto Mining Algorithm Stimulation
